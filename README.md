@@ -2,7 +2,7 @@
 
 ## Request Library:
 
-```curl_cffi``` to handle request with fingerprinting (built on top of c library curl-impersonate)
+```curl_cffi``` to handle request with fingerprinting (built on top of c library curl-impersonate). [Read docs](https://curl-cffi.readthedocs.io/en/latest/impersonate.html).
 
 ## HTML Parser:
 
